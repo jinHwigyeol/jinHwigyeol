@@ -1,6 +1,6 @@
 ## Kang Jiin ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinHwigyeol)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHwiyeol)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br><br>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
