@@ -1,6 +1,8 @@
-## Kang Jiin ##
+## 강지인의 깃허브 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinHwigyeol)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KangJiin&fontSize=90)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br><br>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
