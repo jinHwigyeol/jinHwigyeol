@@ -1,4 +1,4 @@
-## 강지인의 깃허브 ##
+## KangJiin's GIT ##
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KangJiin&fontSize=90)
 
